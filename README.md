@@ -1,16 +1,39 @@
-## Hi there 👋
+<h2 align="center">Zhina</h2>
 
-<!--
-**Zzzhina/Zzzhina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Aspiring Developer | Learning Python | Building Step by Step</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="center">Introduction</h2>
+
+###
+
+<img align="right" height="357" src="https://i.pinimg.com/originals/1c/d1/ff/1cd1ff2155ec58af72a36c95ec5647ca.gif"  />
+
+###
+
+<img align="left" height="172" src="https://i.pinimg.com/originals/05/43/d7/0543d7dc119063d465932f230d856414.gif"  />
+
+###
+
+<p align="left">I'm Zhina, an aspiring developer currently focused on learning Python and building a strong foundation in software development.<br><br>I'm interested in understanding how systems work behind the scenes, improving my problem-solving skills, and writing clean, readable code.<br><br>Right now, I'm learning through small projects and consistent practice, growing step by step as a developer.</p>
+
+###
+
+<h2 align="left">Currently Learning</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+</div>
+
+###
