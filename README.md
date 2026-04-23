@@ -1,17 +1,21 @@
-<h2 align="center">Zhina</h2>
+<p align="center" style="font-size:32px; font-weight:bold;">Zhina</p>
+
+<hr style="height:4px; border:none; background:linear-gradient(to right, transparent, #888, transparent); width:80%;">
 
 <p align="center">Aspiring Developer | Learning Python | Building Step by Step</p>
 
----
+<br>
 
-<h2 align="center">Introduction</h2>
+<p align="center" style="font-size:26px; font-weight:bold;">Introduction</p>
+
+<hr style="height:4px; border:none; background:linear-gradient(to right, transparent, #888, transparent); width:60%;">
 
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="200" height="200" style="padding:0;">
 
 <img src="https://i.pinimg.com/originals/05/43/d7/0543d7dc119063d465932f230d856414.gif"
-style="display:block; width:200%; height:200%;" />
+style="display:block; width:100%; height:100%;" />
 
 </td>
 
@@ -33,9 +37,9 @@ Right now, I'm learning through small projects and consistent practice, growing 
 </tr>
 </table>
 
----
+<hr style="height:4px; border:none; background:linear-gradient(to right, transparent, #888, transparent); width:80%;">
 
-<p align="left">Currently Learning</p>
+<p align="left"><strong>Currently Learning</strong></p>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" />
