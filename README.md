@@ -6,9 +6,9 @@
 
 <h2 align="center">Introduction</h2>
 
-<table cellspacing="0" cellpadding="0">
+<table cellspacing="200" cellpadding="200">
 <tr>
-<td width="200" height="200" style="padding:200;">
+<td width="200" height="200" style="padding:0;">
 
 <img src="https://i.pinimg.com/originals/05/43/d7/0543d7dc119063d465932f230d856414.gif"
 style="display:block; width:200%; height:200%;" />
