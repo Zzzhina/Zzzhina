@@ -6,7 +6,7 @@
 
 <h2 align="center">Introduction</h2>
 
-<table cellspacing="200" cellpadding="200">
+<table cellspacing="0" cellpadding="0">
 <tr>
 <td width="200" height="200" style="padding:0;">
 
