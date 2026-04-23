@@ -29,3 +29,4 @@ Right now, I'm learning through small projects and consistent practice, growing 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
 </div>
+<img align="left" width="250" hspace="20" ... />
