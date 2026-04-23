@@ -6,26 +6,42 @@
 
 <p align="center">Introduction</p>
 
-<img align="left" width="250" hspace="20" src="https://i.pinimg.com/originals/05/43/d7/0543d7dc119063d465932f230d856414.gif" alt="gif" />
+<table>
+<tr>
+<td width="200">
 
-<p align="left">
-I'm Zhina, an aspiring developer currently focused on learning Python and building a strong foundation in software development.<br><br>
-I'm interested in understanding how systems work behind the scenes, improving my problem-solving skills, and writing clean, readable code.<br><br>
+<img src="https://i.pinimg.com/originals/05/43/d7/0543d7dc119063d465932f230d856414.gif" height="172" />
+
+</td>
+
+<td valign="top">
+
+<p>
+I'm Zhina, an aspiring developer currently focused on learning Python and building a strong foundation in software development.
+</p>
+
+<p>
+I'm interested in understanding how systems work behind the scenes, improving my problem-solving skills, and writing clean, readable code.
+</p>
+
+<p>
 Right now, I'm learning through small projects and consistent practice, growing step by step as a developer.
 </p>
 
-<br clear="left">
+</td>
+</tr>
+</table>
 
 ---
 
 <p align="left">Currently Learning</p>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
 </div>
