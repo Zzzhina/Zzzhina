@@ -1,12 +1,12 @@
-<h2 align="center">Zhina</h2>
+<p align="center">Zhina</p>
 
 <p align="center">Aspiring Developer | Learning Python | Building Step by Step</p>
 
 ---
 
-<h2 align="center">Introduction</h2>
+<p align="center">Introduction</p>
 
-<img align="left" height="172" hspace="18" src="https://i.pinimg.com/originals/05/43/d7/0543d7dc119063d465932f230d856414.gif" />
+<img align="left" width="250" hspace="20" src="https://i.pinimg.com/originals/05/43/d7/0543d7dc119063d465932f230d856414.gif" alt="gif" />
 
 <p align="left">
 I'm Zhina, an aspiring developer currently focused on learning Python and building a strong foundation in software development.<br><br>
@@ -14,11 +14,11 @@ I'm interested in understanding how systems work behind the scenes, improving my
 Right now, I'm learning through small projects and consistent practice, growing step by step as a developer.
 </p>
 
-<br clear="left"/>
+<br clear="left">
 
 ---
 
-<h2 align="left">Currently Learning</h2>
+<p align="left">Currently Learning</p>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
