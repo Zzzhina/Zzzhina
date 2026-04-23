@@ -1,4 +1,4 @@
-<h2 align="center" style="font-size:32px; font-weight:bold;">Zhina</h2>
+<h1 align="center" style="font-size:32px; font-weight:bold;">Zhina</h1>
 
 <hr style="height:4px; border:none; background:linear-gradient(to right, transparent, #888, transparent); width:80%;">
 
@@ -6,7 +6,7 @@
 
 <br>
 
-<h2 align="center" style="font-size:26px; font-weight:bold;">Introduction</h2>
+<h1 align="center" style="font-size:26px; font-weight:bold;">Introduction</h1>
 
 <hr style="height:4px; border:none; background:linear-gradient(to right, transparent, #888, transparent); width:60%;">
 
