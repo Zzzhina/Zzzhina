@@ -39,7 +39,7 @@ Right now, I'm learning through small projects and consistent practice, growing 
 
 <hr style="height:4px; border:none; background:linear-gradient(to right, transparent, #888, transparent); width:80%;">
 
-<p align="left"><strong>Currently Learning</strong></p>
+<h3 align="left"><strong>Currently Learning</strong></h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" />
