@@ -1,4 +1,4 @@
-<h2 align="center">Zhina</h1>
+<h2 align="center">Zhina</h2>
 
 <p align="center">Aspiring Developer | Learning Python | Building Step by Step</p>
 
@@ -11,7 +11,7 @@
 <td width="200" height="200" style="padding:0;">
 
 <img src="https://i.pinimg.com/originals/05/43/d7/0543d7dc119063d465932f230d856414.gif"
-style="display:block; width:100%; height:100%;" />
+style="display:block; width:200%; height:200%;" />
 
 </td>
 
