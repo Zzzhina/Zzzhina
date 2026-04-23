@@ -13,7 +13,7 @@
 <img src="https://i.pinimg.com/originals/05/43/d7/0543d7dc119063d465932f230d856414.gif"
 style="display:block; width:200%; height:200%;" />
 
-</td>
+</tr>
 
 <td valign="top">
 
