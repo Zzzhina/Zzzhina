@@ -44,5 +44,4 @@ Right now, I'm learning through small projects and consistent practice, growing 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" />
 </div>
