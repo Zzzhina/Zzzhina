@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Zhina, an aspiring developer currently focused on learning Python and building a strong foundation in software development.<br><br>I'm interested in understanding how systems work behind the scenes, improving my problem-solving skills, and writing clean, readable code.<br><br>Right now, I'm learning through small projects and consistent practice, growing step by step as a developer.</p>
+<p align="left">I'm Zhina, an aspiring developer   currently focused on learning Python and building a strong foundation in software development.<br><br> I'm interested in understanding how systems work behind the scenes, improving my problem-solving skills, and writing clean, readable code.<br><br> Right now, I'm learning through small projects and consistent practice, growing step by step as a developer.</p>
 
 ###
 
