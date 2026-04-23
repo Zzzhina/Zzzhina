@@ -1,6 +1,6 @@
 <h2 align="center">Zhina</h1>
 
-<p align="center">Aspiring Developer | Learning Python | Building Step by Step</p>
+<p align="center">Aspiring Developer | Learning Python | Building Step by Step</h2>
 
 ---
 
